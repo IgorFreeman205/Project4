@@ -1,0 +1,178 @@
+Start testing: Nov 22 23:30 EST
+----------------------------------------------------------
+1/6 Testing: PlanningInMichigan.AnnArborMarquette
+1/6 Test: PlanningInMichigan.AnnArborMarquette
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=PlanningInMichigan.AnnArborMarquette" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"PlanningInMichigan.AnnArborMarquette" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = PlanningInMichigan.AnnArborMarquette
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlanningInMichigan
+[ RUN      ] PlanningInMichigan.AnnArborMarquette
+[       OK ] PlanningInMichigan.AnnArborMarquette (0 ms)
+[----------] 1 test from PlanningInMichigan (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PlanningInMichigan.AnnArborMarquette" end time: Nov 22 23:30 EST
+"PlanningInMichigan.AnnArborMarquette" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: PlanningInMichigan.SaginawBentonHarbor
+2/6 Test: PlanningInMichigan.SaginawBentonHarbor
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=PlanningInMichigan.SaginawBentonHarbor" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"PlanningInMichigan.SaginawBentonHarbor" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = PlanningInMichigan.SaginawBentonHarbor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlanningInMichigan
+[ RUN      ] PlanningInMichigan.SaginawBentonHarbor
+[       OK ] PlanningInMichigan.SaginawBentonHarbor (0 ms)
+[----------] 1 test from PlanningInMichigan (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PlanningInMichigan.SaginawBentonHarbor" end time: Nov 22 23:30 EST
+"PlanningInMichigan.SaginawBentonHarbor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: FindNeighbors.TestMiddle
+3/6 Test: FindNeighbors.TestMiddle
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=FindNeighbors.TestMiddle" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"FindNeighbors.TestMiddle" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FindNeighbors.TestMiddle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FindNeighbors
+[ RUN      ] FindNeighbors.TestMiddle
+[       OK ] FindNeighbors.TestMiddle (0 ms)
+[----------] 1 test from FindNeighbors (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FindNeighbors.TestMiddle" end time: Nov 22 23:30 EST
+"FindNeighbors.TestMiddle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: FindNeighbors.TestCorner
+4/6 Test: FindNeighbors.TestCorner
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=FindNeighbors.TestCorner" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"FindNeighbors.TestCorner" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FindNeighbors.TestCorner
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FindNeighbors
+[ RUN      ] FindNeighbors.TestCorner
+[       OK ] FindNeighbors.TestCorner (0 ms)
+[----------] 1 test from FindNeighbors (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FindNeighbors.TestCorner" end time: Nov 22 23:30 EST
+"FindNeighbors.TestCorner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: BFS.TestEmpty
+5/6 Test: BFS.TestEmpty
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=BFS.TestEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"BFS.TestEmpty" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = BFS.TestEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BFS
+[ RUN      ] BFS.TestEmpty
+10, 11, 12, 13, 14, 15, 
+10, 11, 12, 13, 14, 15, [       OK ] BFS.TestEmpty (1 ms)
+[----------] 1 test from BFS (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BFS.TestEmpty" end time: Nov 22 23:30 EST
+"BFS.TestEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: BFS.TestCorner
+6/6 Test: BFS.TestCorner
+Command: "/home/igorf/rob102/p3_path_planning_template/build/test_public" "--gtest_filter=BFS.TestCorner" "--gtest_also_run_disabled_tests"
+Directory: /home/igorf/rob102/p3_path_planning_template/build
+"BFS.TestCorner" start time: Nov 22 23:30 EST
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = BFS.TestCorner
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BFS
+[ RUN      ] BFS.TestCorner
+50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 
+50, 49, 48, 47, 46, 45, 44, 43, 42, 41, 40, 39, 38, 37, 36, 35, 34, 33, 32, 31, 30, 29, 28, /home/igorf/rob102/p3_path_planning_template/test/test_utils.h:81: Failure
+Expected equality of these values:
+  path.size()
+    Which is: 23
+  correct_path.size()
+    Which is: 39
+
+[  FAILED  ] BFS.TestCorner (1 ms)
+[----------] 1 test from BFS (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] BFS.TestCorner
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"BFS.TestCorner" end time: Nov 22 23:30 EST
+"BFS.TestCorner" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 22 23:30 EST
